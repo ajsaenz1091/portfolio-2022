@@ -23,8 +23,12 @@ import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
-import profile from '../assets/profile.png';
-import profile2 from '../assets/profile2.png';
+import profile5 from '../assets/profile5.png';
+import profile6 from '../assets/profile6.png';
+import profile7 from '../assets/profile7.png';
+import profile8 from '../assets/profile8.png';
+import profile9 from '../assets/profile9.png';
+import profile10 from '../assets/profile10.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 import logo_color from '../assets/logo-color.png';
@@ -65,8 +69,12 @@ export default {
   about02,
   about03,
   about04,
-  profile,
-  profile2,
+  profile5,
+  profile6,
+  profile7,
+  profile8,
+  profile9,
+  profile10,
   circle,
   logo,
   logo_color,
