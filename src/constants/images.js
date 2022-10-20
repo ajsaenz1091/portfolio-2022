@@ -3,8 +3,8 @@ import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
-import figma from '../assets/figma.png';
-import flutter from '../assets/flutter.png';
+import csharp from '../assets/csharp.png';
+import rubyRails from '../assets/rubyRails.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
@@ -51,8 +51,8 @@ export default {
   api,
   cpp,
   css,
-  figma,
-  flutter,
+  csharp,
+  rubyRails,
   git,
   graphql,
   html,
