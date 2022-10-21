@@ -1,7 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Literata:opsz@7..72&display=swap');
 
 :root {
-  --font-base: "DM Sans", sans-serif;
+  --font-base: "Literata", serif;
+  --font-test1: "Josefin Sans", sans-serif;
+  --font-test2: "Lobster Two", cursive;
+  --font-test3: "El Messiri", sans-serif;
+  --font-test4: "Merienda", cursive;
+  --font-test5: "Literata", serif;
 
   --primary-color: #edf2f8;
   --secondary-color: #1dd1d1;
