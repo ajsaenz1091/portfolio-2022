@@ -5,6 +5,7 @@ import { motion } from 'framer-motion'
 import { AppWrap } from '../../wrapper'
 import { urlFor, client } from '../../client'
 import './Work.scss'
+import techs from './techs'
 
 const Work = () => {
 
@@ -43,7 +44,7 @@ const Work = () => {
       <h2 className='head-text'>My <span>Work</span></h2>
 
       <div className='app__work-filter'>
-        {['JavaScript', 'ReactJS', 'C#', 'Ruby', 'All'].map((item, idx) => (
+        {techs.map((item, idx) => (
           <div  
             key={idx}
             onClick={ () => handleWorkFilter(item)} 
