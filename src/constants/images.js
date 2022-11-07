@@ -1,5 +1,7 @@
 import email from '../assets/email.png';
+import email5 from '../assets/email5.png';
 import mobile from '../assets/mobile.png';
+import mobile2 from '../assets/mobile2.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
@@ -47,7 +49,9 @@ import white_background from '../assets/white-background.jpg'
 
 export default {
   email,
+  email5,
   mobile,
+  mobile2,
   api,
   cpp,
   css,
